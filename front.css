@@ -1,0 +1,79 @@
+
+
+
+
+.head{
+  font-size: 75px;
+  text-align: center;
+  margin-top: 20px;
+  color: rgb(189, 189, 189);
+  margin-bottom: 0px;
+  margin-top: 0;
+  background-color: rgb(35, 35, 35);
+  
+}
+
+* {
+margin: 0;
+}
+.div2{
+  height: 100vh;
+  background-image: url(/pics/front.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  
+}
+
+.moh{
+  margin-top: 20px;
+}
+.log{
+  margin-left:650px;
+  margin-top: 180px;
+}
+
+.email{
+  margin-bottom: 40px;
+}
+.email-p{
+  color: white;
+  margin-bottom: 5px;
+  font-size: 25px;
+}
+.email-btn{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 40px;
+}
+.pass-p{  color: white;
+  margin-bottom: 5px;
+  font-size: 25px;
+
+}
+
+.pass-btn{ padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 40px;
+}
+.log-btn{
+  margin-top: 15px;
+  margin-left: 65px;
+  padding-right: px;
+  text-align: center;
+  background-color: rgb(189, 189, 189);
+  color: black;
+  border-color:rgb(189, 189, 189);
+  border-radius: 10px;
+}
+.log-btn:hover{
+  background-color: rgb(8, 8, 8);
+  color:white;
+  border-color:rgb(8, 8, 8) ;
+}
+.log-btn:active{
+  opacity: 0.7;
+}
+
+
+
